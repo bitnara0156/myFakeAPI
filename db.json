@@ -3,13 +3,13 @@
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ffffff.png",
           "title": "Ali Connors",
-          "price": `100000`,
+          "price": "100000",
         },
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ffffff.png",
           "title": "Alex Scott",
-          "price": `200000`,
+          "price": "200000",
         },
 
         {
@@ -28,13 +28,13 @@
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ffffff.png",
           "title": "Ali Connors",
-          "price": `100000`,
+          "price": "100000",
         },
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ffffff.png",
           "title": "Alex Scott",
-          "price": `200000`,
+          "price": "200000",
         },
 
         {
@@ -74,7 +74,7 @@
         "screen": "15-inch Retina display",
         "price": "3199",
         "rating": 3.5,
-        "description": "If you're after the latest"
+        "description": "If you"re after the latest"
         }
     ],
     "results":[
