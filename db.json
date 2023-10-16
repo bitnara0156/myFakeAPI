@@ -173,8 +173,8 @@
       ],
      "ContactAlt": [
         {
-          src: "topbar.jpg",
-          heading: "Lottery Results",
+          "src": "topbar.jpg",
+          "heading": "Lottery Results",
         },
       ]
 }
