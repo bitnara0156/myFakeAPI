@@ -1,58 +1,7 @@
 {
-        "products": [
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Ali Connors",
-          "price": `100000`,
-        },
-
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Alex Scott",
-          "price": `200000`,
-        },
-
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Sandra Adams",
-          "price": "300000",
-        },
-
-
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Britta Holt",
-          "price":
-            "400000",
-        },
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Ali Connors",
-          "price": `100000`,
-        },
-
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Alex Scott",
-          "price": `200000`,
-        },
-
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Sandra Adams",
-          "price": "300000",
-        },
-
-
-        {
-          "avatar": "https://dummyimage.com/316x247/cfcfcf/ffffff.png",
-          "title": "Britta Holt",
-          "price":
-            "400000",
-        }
-      ],
+       
     
-    "result": [
+    "results": [
   {
     "id": 1,
     "date": "01-11-2023",
