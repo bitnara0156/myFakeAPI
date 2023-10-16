@@ -170,5 +170,11 @@
               }
 
         }
+      ],
+     "ContactAlt": [
+        {
+          src: 'topbar.jpg',
+          heading: ' Lottery Results ',
+        },
       ]
 }
