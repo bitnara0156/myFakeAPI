@@ -2,30 +2,54 @@
    
     "products": [
         {
-            "id": 0,
-            "productName": "Huawei MateBook X Pro",
-            "image": "/huawei-matebook-pro.jpg",
-            "cpu": "Intel Core i7, 8th generation",
-            "ram": "8GB",
-            "storage": "512 GB SSD",
-            "screen": "13.9-inch, 3K (3,000 x 2,080)",
-            "price": "1499",
-            "rating": 4.5,
-            "description": "The Huawei"
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Connors",
+          "price": "100000"
+        },
+
+        {
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Scott",
+          "price": "200000"
+        },
+
+        {
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Adams",
+          "price": "300000"
+        },
+
+
+        {
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Holt",
+          "price":"400000"
         },
         {
-            "id": 1,
-        "productName": "Apple Macbook Pro 2018",
-        "image": "/macbook-pro-15.jpg",
-        "cpu": "6-core Intel i7, 8th generation",
-        "ram": "16GB",
-        "storage": "1TB GB SSD",
-        "screen": "15-inch Retina display",
-        "price": "3199",
-        "rating": 3.5,
-        "description": "If you're after the latest"
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Alonnors",
+          "price": "100000"
+        },
+
+        {
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Alecott",
+          "price": "200000"
+        },
+
+        {
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Sandams",
+          "price": "300000"
+        },
+
+
+        {
+          "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
+          "title": "Britolt",
+          "price": "400000"
         }
-    ],
+      ],
     "results":[
         {
           "id": 1,
