@@ -580,80 +580,37 @@
           "description": "400000"
         }
       ],
-   "ourproducts": [
+   "ourproducts":[
         {
+          "title": "Instant Lottery",
           "link": "instant",
-          "title": "Instant Lotttery",
-          "description": {
-                "id":"1",
-                "avatar": "https://dummyimage.com/316x247/ececec/28292b.jpg&text=Instant",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              },
-              {
-                "id":"2",
-                "avatar": "https://dummyimage.com/316x247/ececec/28292b.jpg&text=Instant",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              },
-
-        },
-
-        {
-          "link": "computer",
-          "title": "Computer Lottery",
-          "description": {
-                "id":"1",
-                "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              },
+          "detail": [{
+                "id": 1,
+                "image": "instant.jpg",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+               },
+            {
+                "id": 2,
+                "image": "instant.jpg",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+               },
+            {
+                "id": 3,
+                "image": "instant.jpg",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+               },
+            {
+                "id": 4,
+                "image": "instant.jpg",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+               }
+              
           
-              {
-                "id":"2",
-                "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              }
-        },
-
-        {
-          "link": "livestream",
-          "title": "Live stream Lottery",
-          "description": {
-                "id":"1",
-                "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              },
-          
-              {
-                "id":"2",
-                "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              }
-      
-      
-        },
-
-
-        {
-          "link": "national",
-          "title": "National Khmer Lottery",
-          "description":{
-                "id":"1",
-                "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              },
-          
-              {
-                "id":"2",
-                "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-                "title": "Light energy capure in solar cells.",
-                "description": "Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells.Light energy capure in solar cells."
-              }
+          ]
         }
-      ]
+   ]
 }
