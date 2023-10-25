@@ -114,9 +114,7 @@
           "description": ""
         }
       ],
-   "main":[{
-      "title":"Result Lottery",
-      "resdate":"10/25/2023",
+
     "results":[
         {
           "id": 1,
@@ -262,8 +260,6 @@
               }
 
         }
-      ]
-   }
    ],
     "instant": [
         {
