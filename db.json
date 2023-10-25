@@ -260,212 +260,8 @@
 
         }
       ],
-     "ContactAlt": [
-        {
-          "src": "topbar.jpg",
-          "heading": "Lottery Results"
-        }
-      ],
     "instant": [
         {
-          "id":"1",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "100000"
-        },
-
-        {
-           "id":"2",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "200000"
-        },
-
-        {
-           "id":"3",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "300000"
-        },
-
-
-        {
-           "id":"4",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description":"400000"
-        },
-        {
-           "id":"5",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "100000"
-        },
-
-        {
-           "id":"6",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "200000"
-        },
-
-        {
-           "id":"7",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "300000"
-        },
-
-
-        {
-           "id":"8",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "400000"
-        },
-
-
-        {
-           "id":"9",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "400000"
-        }
-      ],
-   "computer": [
-         {
-          "id":"1",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "100000"
-        },
-
-        {
-           "id":"2",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "200000"
-        },
-
-        {
-           "id":"3",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "300000"
-        },
-
-
-        {
-           "id":"4",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description":"400000"
-        },
-        {
-           "id":"5",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "100000"
-        },
-
-        {
-           "id":"6",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "200000"
-        },
-
-        {
-           "id":"7",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "300000"
-        },
-
-
-        {
-           "id":"8",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "400000"
-        },
-
-
-        {
-           "id":"9",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "400000"
-        }
-      ],
-   "live": [
-         {
-          "id":"1",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "100000"
-        },
-
-        {
-           "id":"2",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "200000"
-        },
-
-        {
-           "id":"3",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "300000"
-        },
-
-
-        {
-           "id":"4",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description":"400000"
-        },
-        {
-           "id":"5",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "100000"
-        },
-
-        {
-           "id":"6",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "200000"
-        },
-
-        {
-           "id":"7",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "300000"
-        },
-
-
-        {
-           "id":"8",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "400000"
-        },
-
-
-        {
-           "id":"9",
-          "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
-          "title": "Light energy capure in solar cells.",
-          "description": "400000"
-        }
-      ],
-   "national": [
-         {
           "id":"1",
           "avatar": "https://dummyimage.com/372x247/cfcfcf/ffffff.png",
           "title": "Light energy capure in solar cells.",
@@ -534,50 +330,50 @@
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Connors",
-          "description": "100000"
+          "description": "1,000,000฿"
         },
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Scott",
-          "description": "200000"
+          "description": "1,000,000฿"
         },
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Adams",
-          "description": "300000"
+          "description": "1,000,000฿"
         },
 
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Holt",
-          "description":"400000"
+          "description":"1,000,000฿"
         },
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Alonnors",
-          "description": "100000"
+          "description": "1,000,000฿"
         },
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Alecott",
-          "description": "200000"
+          "description": "1,000,000฿"
         },
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Sandams",
-          "description": "300000"
+          "description": "1,000,000฿"
         },
 
 
         {
           "avatar": "https://dummyimage.com/440x300/cfcfcf/ff9900.png",
           "title": "Britolt",
-          "description": "400000"
+          "description": "1,000,000฿"
         }
       ],
    
