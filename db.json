@@ -399,7 +399,8 @@
       ],
    
    "ourproducts":[
-        {
+        {   
+           "id": 1,
           "title": "Instant Lottery",
           "link": "instant",
           "detail": [{
@@ -461,6 +462,7 @@
           ]
         },
      {
+        "id": 2,
           "title": "Computer Lottery",
           "link": "computer",
           "detail": [{
@@ -492,6 +494,7 @@
           ]
         },
      {
+        "id": 3,
           "title": "Live Stream Lottery",
           "link": "live",
           "detail": [{
@@ -523,6 +526,7 @@
           ]
         },
      {
+        "id": 4,
           "title": "National Khmer Lottery",
           "link": "national",
           "detail": [{
