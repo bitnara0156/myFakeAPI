@@ -341,18 +341,21 @@
       ],
    "winner": [
         {
+          "id":"1",
           "avatar": "winner.jpg",
           "title": "Connors",
           "description": "1,000,000฿"
         },
 
         {
+         "id":"2",
           "avatar": "winner.jpg",
           "title": "Scott",
           "description": "1,000,000฿"
         },
 
         {
+           "id":"3",
           "avatar": "winner.jpg",
           "title": "Adams",
           "description": "1,000,000฿"
@@ -360,23 +363,27 @@
 
 
         {
+           "id":"4",
           "avatar": "winner.jpg",
           "title": "Holt",
           "description":"1,000,000฿"
         },
         {
+           "id":"5",
           "avatar": "winner.jpg",
           "title": "Alonnors",
           "description": "1,000,000฿"
         },
 
         {
+           "id":"6",
           "avatar": "winner.jpg",
           "title": "Alecott",
           "description": "1,000,000฿"
         },
 
         {
+           "id":"7",
           "avatar": "winner.jpg",
           "title": "Sandams",
           "description": "1,000,000฿"
@@ -384,6 +391,7 @@
 
 
         {
+           "id":"8",
           "avatar": "winner.jpg",
           "title": "Britolt",
           "description": "1,000,000฿"
