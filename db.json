@@ -114,11 +114,12 @@
           "description": ""
         }
       ],
-       "6wins": [
-          {
-          "video":"https://www.youtube.com/embed/vRT8lU9Flws"
-     },
-       {
+      "6wins": [{
+   "image": "6win.png",
+          "video":"https://www.youtube.com/embed/vRT8lU9Flws",
+    "results":[{
+     
+       
          "id":1,
       "ref": "N06231031076",
       "date": "01-11-2023",
@@ -193,6 +194,9 @@
           "posittion": "even"
         }
       }
+      
+    ]
+ }
    ],
    
 
