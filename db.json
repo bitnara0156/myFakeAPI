@@ -114,6 +114,78 @@
           "description": ""
         }
       ],
+       "6wins": [
+       {
+         "id":1,
+      "ref": "N06231031074",
+      "date": "01-11-2023",
+      "round": "16:55:00",
+      "result": {
+       "number": 20,
+       "color": "blue",
+        "posittion": "even"
+          }
+      },
+       
+      {
+        "id":2,
+    "ref": "N06231031075",
+    "date": "01-11-2023",
+     "round": "16:50:00",
+      "result": {
+         "number": 45,
+         "color": "red",
+          "posittion": "even"
+        }
+      },
+   {
+         "id":3,
+      "ref": "N06231031074",
+      "date": "01-11-2023",
+      "round": "16:45:00",
+      "result": {
+       "number": 20,
+       "color": "blue",
+        "posittion": "even"
+          }
+      },
+       
+      {
+        "id":4,
+    "ref": "N06231031075",
+    "date": "01-11-2023",
+     "round": "16:40:00",
+      "result": {
+         "number": 45,
+         "color": "red",
+          "posittion": "even"
+        }
+      },
+   {
+         "id":5,
+      "ref": "N06231031074",
+      "date": "01-11-2023",
+      "round": "16:55:00",
+      "result": {
+       "number": 67,
+       "color": "blue",
+        "posittion": "even"
+          }
+      },
+       
+      {
+        "id":6,
+    "ref": "N06231031075",
+    "date": "01-11-2023",
+     "round": "16:50:00",
+      "result": {
+         "number": 62,
+         "color": "red",
+          "posittion": "even"
+        }
+      }
+   ],
+   
 
     "results":[
        {
