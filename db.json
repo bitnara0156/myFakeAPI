@@ -764,11 +764,21 @@
           },
          "titletwo": "Our Vision",
                 "imagetwo": "about2.jpg",
-                "destwo": "To achieve the goals of the upcoming SEA GAMES, the National Sports Lottery Company has developed a marketing strategy and set sales policies that will attract people to participate in and support the lottery. Of Lottery Company National sport, a parallel lottery in Cambodia.",
-                "titlethree": "Our Mission",
+                "destwo": {
+            "en": "if I belive I can fly then You did't stop me. I have big a lot money and I have powerfull for give anything for you.",
+            "cn": "如果我相信我能飛，那你就沒有阻止我。我有很多錢，我有能力為你付出任何東西。",
+            "th": "ถ้าฉันเชื่อว่าฉันสามารถบินได้ คุณก็ไม่ได้หยุดฉัน ฉันมีเงินมากมายและมีพลังมากพอที่จะมอบทุกสิ่งให้กับคุณ",
+            "kh": "ប្រសិនបើខ្ញុំជឿថាខ្ញុំអាចហោះហើរបាន នោះអ្នកមិនបានបញ្ឈប់ខ្ញុំទេ។ ខ្ញុំ​មាន​លុយ​ច្រើន ហើយ​ខ្ញុំ​មាន​កម្លាំង​ដើម្បី​ផ្តល់​អ្វី​មួយ​ឱ្យ​អ្នក​។"
+          },
+         "titlethree": "Our Mission",
                 "imagethree": "about3.jpg",
-                "desthree": "The National Sports Lottery has been playing a role in eliminating the influx of illegal lotteries from neighboring countries. To meet the needs and entertainment company made Rich as well as market competition with those illegal lotteries and create a variety of lotteries for people to enjoy and turn to support local lottery promotion.National Sports Lottery operates in a safe and trustworthy manner, including sustainable development, standardized management and honest service. In fact, the company always offers real rewards to customers, plus the payout level is higher compared to illegal lotteries.",
-                 "titlefour": "Our Legal Document",
+                "desthree": {
+            "en": "if I belive I can fly then You did't stop me. I have big a lot money and I have powerfull for give anything for you.",
+            "cn": "如果我相信我能飛，那你就沒有阻止我。我有很多錢，我有能力為你付出任何東西。",
+            "th": "ถ้าฉันเชื่อว่าฉันสามารถบินได้ คุณก็ไม่ได้หยุดฉัน ฉันมีเงินมากมายและมีพลังมากพอที่จะมอบทุกสิ่งให้กับคุณ",
+            "kh": "ប្រសិនបើខ្ញុំជឿថាខ្ញុំអាចហោះហើរបាន នោះអ្នកមិនបានបញ្ឈប់ខ្ញុំទេ។ ខ្ញុំ​មាន​លុយ​ច្រើន ហើយ​ខ្ញុំ​មាន​កម្លាំង​ដើម្បី​ផ្តល់​អ្វី​មួយ​ឱ្យ​អ្នក​។"
+          },
+         "titlefour": "Our Legal Document",
          "documents":[{
         "id":1,
         "image":"document.jpg",
