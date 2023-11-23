@@ -10,7 +10,12 @@
             "th": "ถ้าฉันเชื่อว่าฉันสามารถบินได้ คุณก็ไม่ได้หยุดฉัน ฉันมีเงินมากมายและมีพลังมากพอที่จะมอบทุกสิ่งให้กับคุณ",
             "kh": "ដើម្បីសម្រេចគោលដៅនៃការរៀបចំកីឡាអាស៊ីអាគ្នេយ៍ (SEA GAMES) នាពេលខាងមុខនេះ ក្រុមហ៊ុនឆ្នោតកីឡាជាតិបានរៀបចំយុទ្ធសាស្ត្រទីផ្សារ និងកំណត់អំពីគោលការណ៍ផ្នែកលក់ដែលធ្វើយ៉ាង ណាឲ្យប្រជាជនងាកមកចាប់អារម្មណ៍ និងចូលរួមកំសាន្តលេង ក៏ដូចជាគាំទ្រឆ្នោតរបស់ក្រុមហ៊ុនឆ្នោតកីឡាជាតិដែលជាប្រភេទឆ្នោតស្របមួយនៅក្នុប្រទេសកម្ពុជា។ពលរដ្ឋទទួលបានការងារ និងប្រាក់ចំណូលសមរម្យ, ផ្តល់កម្រៃជើងសារ និងភាគរយដល់ភ្នាក់ងារលក់បន្ត, បង់ពន្ធកាតព្វកិច្ចជូនរដ្ឋ លើកស្ទួយសេដ្ឋកិច្ចជាតិ, ផ្តល់នូវទំនុកចិត្ត និងភាពជឿជាក់ខ្ពស់ដល់អតិថិជនលមានទ្ធភាពឈ្នះរង្វាន់មានច្រើន និងកម្រិតនៃការសងរង្វាន់ទ្វេរគុណ ចំណូលមួយផ្នែកគឺផ្តល់ទៅគណៈកម្មាធិការជាតិអូឡាំពិកកម្ពុជាដើម្បីទ្រទ្រង់វិស័យកីឡា។"
           },
-         "titletwo": "Our Vision",
+         "titletwo": {
+            "en": "Our Vision",
+            "cn": "如果我相信我能飛，那你就沒有阻止我。我有很多錢，我有能力為你付出任何東西。",
+            "th": "ถ้าฉันเชื่อว่าฉันสามารถบินได้ คุณก็ไม่ได้หยุดฉัน ฉันมีเงินมากมายและมีพลังมากพอที่จะมอบทุกสิ่งให้กับคุณ",
+            "kh": "ចក្ខុវិស័យ"
+          },
                 "imagetwo": "about2.jpg",
                 "destwo": {
              "en": "To achieve the goals of the upcoming SEA GAMES, the National Sports Lottery Company has developed a marketing strategy and set sales policies that will attract people to participate in and support the lottery. The National Sports Lottery Company, which is a kind of lottery in Cambodia. Provide high confidence and trust to customers who are able to win a lot of prizes and the level of double rewards is partly provided to the National Olympic Committee of Cambodia to support the sport.",
@@ -18,7 +23,12 @@
             "th": "ถ้าฉันเชื่อว่าฉันสามารถบินได้ คุณก็ไม่ได้หยุดฉัน ฉันมีเงินมากมายและมีพลังมากพอที่จะมอบทุกสิ่งให้กับคุณ",
             "kh": "ដើម្បីសម្រេចគោលដៅនៃការរៀបចំកីឡាអាស៊ីអាគ្នេយ៍ (SEA GAMES) នាពេលខាងមុខនេះ ក្រុមហ៊ុនឆ្នោតកីឡាជាតិបានរៀបចំយុទ្ធសាស្ត្រទីផ្សារ និងកំណត់អំពីគោលការណ៍ផ្នែកលក់ដែលធ្វើយ៉ាង ណាឲ្យប្រជាជនងាកមកចាប់អារម្មណ៍ និងចូលរួមកំសាន្តលេង ក៏ដូចជាគាំទ្រឆ្នោតរបស់ក្រុមហ៊ុនឆ្នោតកីឡាជាតិដែលជាប្រភេទឆ្នោតស្របមួយនៅក្នុប្រទេសកម្ពុជា។ពលរដ្ឋទទួលបានការងារ និងប្រាក់ចំណូលសមរម្យ, ផ្តល់កម្រៃជើងសារ និងភាគរយដល់ភ្នាក់ងារលក់បន្ត, បង់ពន្ធកាតព្វកិច្ចជូនរដ្ឋ លើកស្ទួយសេដ្ឋកិច្ចជាតិ, ផ្តល់នូវទំនុកចិត្ត និងភាពជឿជាក់ខ្ពស់ដល់អតិថិជនលមានទ្ធភាពឈ្នះរង្វាន់មានច្រើន និងកម្រិតនៃការសងរង្វាន់ទ្វេរគុណ ចំណូលមួយផ្នែកគឺផ្តល់ទៅគណៈកម្មាធិការជាតិអូឡាំពិកកម្ពុជាដើម្បីទ្រទ្រង់វិស័យកីឡា។"
           },
-         "titlethree": "Our Mission",
+         "titlethree": {
+            "en": "Our Mission",
+            "cn": "如果我相信我能飛，那你就沒有阻止我。我有很多錢，我有能力為你付出任何東西。",
+            "th": "ถ้าฉันเชื่อว่าฉันสามารถบินได้ คุณก็ไม่ได้หยุดฉัน ฉันมีเงินมากมายและมีพลังมากพอที่จะมอบทุกสิ่งให้กับคุณ",
+            "kh": "បេសកកម្ម"
+          },
                 "imagethree": "about3.jpg",
                 "desthree": {
             "en": "The National Sports Lottery has been playing a role in eliminating the influx of illegal lotteries from neighboring countries. In order to meet the needs and entertainment, the company has diversified as well as competed with the market with those illegal lotteries and created a variety of lotteries for people to participate in entertainment and turn to support local lottery promotion.National Sports Lottery operates in a safe and trustworthy manner, including sustainable development, standardized management and honest service. In fact, the company always offers real rewards to customers, plus the payout level is higher compared to illegal lotteries.",
