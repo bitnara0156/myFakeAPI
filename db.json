@@ -44403,6 +44403,384 @@
                }
               
           
-          ]
+          ],
+   "gameclose":[
+  {
+    "reward": {
+      "national": {
+        "d2": {
+          "a": "80",
+          "b": "82",
+          "c": "32",
+          "d": "88"
+        },
+        "d3": {
+          "a": "103",
+          "b": "286",
+          "c": "063",
+          "d": "527"
+        }
+      }
+    },
+    "_id": "65ddeb1c37e742abe83ca14e",
+    "gameEventTimeStart": "21:00",
+    "gameEventTimeEnd": "23:30",
+    "type": "national",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-27T14:01:00.659Z"
+  },
+  {
+    "reward": {
+      "national": {
+        "d2": {
+          "a": "60",
+          "b": "18",
+          "c": "31",
+          "d": "24"
+        },
+        "d3": {
+          "a": "335",
+          "b": "955",
+          "c": "695",
+          "d": "363"
+        }
+      }
+    },
+    "_id": "65ddcefc37e742abe83c973d",
+    "gameEventTimeStart": "19:00",
+    "gameEventTimeEnd": "21:00",
+    "type": "national",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-27T12:01:00.574Z"
+  },
+  {
+    "reward": {
+      "national": {
+        "d2": {
+          "a": "32",
+          "b": "54",
+          "c": "89",
+          "d": "72"
+        },
+        "d3": {
+          "a": "183",
+          "b": "037",
+          "c": "961",
+          "d": "628"
+        }
+      }
+    },
+    "_id": "65ddb2dc37e742abe83c8d2d",
+    "gameEventTimeStart": "17:00",
+    "gameEventTimeEnd": "19:00",
+    "type": "national",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-27T10:01:00.629Z"
+  },
+  {
+    "reward": {
+      "luckywin": {
+        "d2": {
+          "a": "03",
+          "b": "21",
+          "c": "38",
+          "d": "85"
+        },
+        "d3": {
+          "a": "620",
+          "b": "704",
+          "c": "787",
+          "d": "921"
+        }
+      }
+    },
+    "_id": "65dc999c37e742abe83c2a1a",
+    "gameEventTimeStart": "21:00",
+    "gameEventTimeEnd": "23:30",
+    "type": "luckywin",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-26T14:01:00.120Z"
+  },
+  {
+    "reward": {
+      "luckywin": {
+        "d2": {
+          "a": "99",
+          "b": "52",
+          "c": "35",
+          "d": "97"
+        },
+        "d3": {
+          "a": "100",
+          "b": "220",
+          "c": "707",
+          "d": "189"
+        }
+      }
+    },
+    "_id": "65dc7d7c37e742abe83c201f",
+    "gameEventTimeStart": "19:00",
+    "gameEventTimeEnd": "21:00",
+    "type": "luckywin",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-26T12:01:00.935Z"
+  },
+  {
+    "reward": {
+      "luckywin": {
+        "d2": {
+          "a": "24",
+          "b": "59",
+          "c": "57",
+          "d": "54"
+        },
+        "d3": {
+          "a": "437",
+          "b": "473",
+          "c": "525",
+          "d": "370"
+        }
+      }
+    },
+    "_id": "65dc615c37e742abe83c160f",
+    "gameEventTimeStart": "17:00",
+    "gameEventTimeEnd": "19:00",
+    "type": "luckywin",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-26T10:01:00.932Z"
+  },
+  {
+    "reward": {
+      "luckywin": {
+        "d2": {
+          "a": "80",
+          "b": "91",
+          "c": "21",
+          "d": "94"
+        },
+        "d3": {
+          "a": "022",
+          "b": "321",
+          "c": "971",
+          "d": "531"
+        }
+      }
+    },
+    "_id": "65dc453c37e742abe83c0bff",
+    "gameEventTimeStart": "15:00",
+    "gameEventTimeEnd": "17:00",
+    "type": "luckywin",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-26T08:01:00.218Z"
+  },
+  {
+    "reward": {
+      "luckywin": {
+        "d2": {
+          "a": "93",
+          "b": "44",
+          "c": "81",
+          "d": "09"
+        },
+        "d3": {
+          "a": "113",
+          "b": "586",
+          "c": "884",
+          "d": "500"
+        }
+      }
+    },
+    "_id": "65dc291c37e742abe83c01ef",
+    "gameEventTimeStart": "13:00",
+    "gameEventTimeEnd": "15:00",
+    "type": "luckywin",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-26T06:01:00.675Z"
+  },
+  {
+    "reward": {
+      "luckywin": {
+        "d2": {
+          "a": "96",
+          "b": "99",
+          "c": "11",
+          "d": "35"
+        },
+        "d3": {
+          "a": "726",
+          "b": "663",
+          "c": "177",
+          "d": "625"
+        }
+      }
+    },
+    "_id": "65dc0cfc37e742abe83bf7de",
+    "gameEventTimeStart": "11:00",
+    "gameEventTimeEnd": "13:00",
+    "type": "luckywin",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-26T04:01:00.753Z"
+  },
+  {
+    "reward": {
+      "millionaire": {
+        "d2": {
+          "a": "33",
+          "b": "20",
+          "c": "52",
+          "d": "24"
+        },
+        "d3": {
+          "a": "092",
+          "b": "798",
+          "c": "631",
+          "d": "976"
+        }
+      }
+    },
+    "_id": "65db47e137e742abe83bb2d2",
+    "gameEventTimeStart": "21:00",
+    "gameEventTimeEnd": "23:30",
+    "type": "millionaire",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-25T14:00:01.028Z"
+  },
+  {
+    "reward": {
+      "millionaire": {
+        "d2": {
+          "a": "98",
+          "b": "45",
+          "c": "55",
+          "d": "23"
+        },
+        "d3": {
+          "a": "930",
+          "b": "337",
+          "c": "746",
+          "d": "243"
+        }
+      }
+    },
+    "_id": "65db2bfc37e742abe83ba8d8",
+    "gameEventTimeStart": "19:00",
+    "gameEventTimeEnd": "21:00",
+    "type": "millionaire",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-25T12:01:00.834Z"
+  },
+  {
+    "reward": {
+      "millionaire": {
+        "d2": {
+          "a": "19",
+          "b": "25",
+          "c": "07",
+          "d": "25"
+        },
+        "d3": {
+          "a": "609",
+          "b": "477",
+          "c": "095",
+          "d": "555"
+        }
+      }
+    },
+    "_id": "65db0fa137e742abe83b9eb2",
+    "gameEventTimeStart": "17:00",
+    "gameEventTimeEnd": "19:00",
+    "type": "millionaire",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-25T10:00:01.012Z"
+  },
+  {
+    "reward": {
+      "millionaire": {
+        "d2": {
+          "a": "14",
+          "b": "94",
+          "c": "93",
+          "d": "66"
+        },
+        "d3": {
+          "a": "256",
+          "b": "115",
+          "c": "572",
+          "d": "203"
+        }
+      }
+    },
+    "_id": "65daf3bc37e742abe83b94b8",
+    "gameEventTimeStart": "15:00",
+    "gameEventTimeEnd": "17:00",
+    "type": "millionaire",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-25T08:01:00.748Z"
+  },
+  {
+    "reward": {
+      "millionaire": {
+        "d2": {
+          "a": "46",
+          "b": "33",
+          "c": "90",
+          "d": "86"
+        },
+        "d3": {
+          "a": "805",
+          "b": "385",
+          "c": "679",
+          "d": "173"
+        }
+      }
+    },
+    "_id": "65dad79c37e742abe83b8aa7",
+    "gameEventTimeStart": "13:00",
+    "gameEventTimeEnd": "15:00",
+    "type": "millionaire",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-25T06:01:00.438Z"
+  },
+  {
+    "reward": {
+      "millionaire": {
+        "d2": {
+          "a": "75",
+          "b": "71",
+          "c": "01",
+          "d": "80"
+        },
+        "d3": {
+          "a": "189",
+          "b": "724",
+          "c": "705",
+          "d": "842"
+        }
+      }
+    },
+    "_id": "65dabb7c37e742abe83b80ab",
+    "gameEventTimeStart": "11:00",
+    "gameEventTimeEnd": "13:00",
+    "type": "millionaire",
+    "status": "CLOSE",
+    "createBy": "admin01",
+    "createDate": "2024-02-25T04:01:00.123Z"
+  }
+]
+
 
 }
